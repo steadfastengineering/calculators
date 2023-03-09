@@ -1,3 +1,13 @@
+
+#Steadfast Engineering and Fabrication's Modified Jupyter Lite
+-Dark mode
+-Disabled shift+enter to execute
+-Other changes pending
+
+
+
+
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
