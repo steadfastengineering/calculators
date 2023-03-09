@@ -1,9 +1,6 @@
 
 #Steadfast Engineering and Fabrication's Modified Jupyter Lite
--Dark mode
 -Disabled shift+enter to execute
--Other changes pending
-
 
 
 
