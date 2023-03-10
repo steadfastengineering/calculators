@@ -1,5 +1,5 @@
 
-#Steadfast Engineering and Fabrication's Modified Jupyter Lite
+# Steadfast Engineering and Fabrication's Modified Jupyter Lite
 -Disabled shift+enter to execute
 
 
