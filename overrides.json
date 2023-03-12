@@ -1,11 +1,4 @@
 {
-  "@jupyterlab/console-extension:tracker": {
-    "interactionMode": "terminal"
-  }
-
-}
-
-{
     "@jupyterlab/apputils-extension:themes": {
         "theme": "JupyterLab Dark"
     }
