@@ -1,12 +1,16 @@
 # Steadfast Engineering and Fabrication's Notebook Collection
-## An Automotive Computational Toolset
-
+### Some useful automotive computations for the at home mechanic or fabricator  
 **Usage:**
-> Select a calculator notebook from the content directory
-> Follow the usage instructions for the specific calculator
+- Clone, select a calculator notebook from the content directory.
+ 
 
-**Bugs?**
-> Use (https://steadfastfabrication.com/contact-us)
+**Use online:** 
+
+- https://steadfastfabrication.com/calculators
+
+
+![Alt text](/images/screenshot_1.png?raw=true "Example: Sagitta Distance")
+
 
 **More Info**
-> See (https://jupyter.org/about)
+- See (https://jupyter.org/about)
