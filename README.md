@@ -6,11 +6,11 @@
 
 **Use online:** 
 
-- https://steadfastfabrication.com/calculators
+- https://steadfastfabrication.com/notebooks
 
 
 ![Alt text](/images/screenshot_1.png?raw=true "Example: Sagitta Distance")
 
 
 **More Info**
-- See (https://jupyter.org/about)
+- See https://jupyter.org/about
